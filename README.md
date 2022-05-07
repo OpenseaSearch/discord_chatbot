@@ -11,7 +11,7 @@ Discord自动聊天机器人，撸白名单必备！
 将代码保存为 discord_bot.py 文件。然后打开本地代码文件开始配置参数。
 
 这个方法里的值是随机发言的内容，可以按照格式自己修改：
-import requests, random
+>import requests, random
 
 def gen_context():
     context_list = [
