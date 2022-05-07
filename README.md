@@ -1,5 +1,5 @@
 # discord_chatbot
-A must for whitelisting
+Discord自动聊天机器人，撸白名单必备！
 
 
 如有python环境，请下载未编译版本进行使用
