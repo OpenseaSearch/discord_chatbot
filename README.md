@@ -27,3 +27,4 @@ get_context方法是随机获取频道中别人的发言然后发送，代码里
 
 # 打开网页版discord获取需要配置的参数：
 chanel_list = ['891977019544457260'] #配置chanelId，891977019544457260是研习社chainclub大家庭的channelid。多个值的话要用半角英文的逗号隔开，这样写：chanel_list = ['891977019544457260','891977019544457260']
+![获取chanelID：](https://github.com/OpenseaSearch/discord_chatbot/blob/main/img/chanelID.png)
