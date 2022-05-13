@@ -12,7 +12,7 @@
 # 打开以下链接，复制代码。
 https://github.com/OpenseaSearch/discord_chatbot/blob/main/discord_bot.py
 
-将代码保存为 discord_bot.py 文件。然后打开本地代码文件开始配置参数。
+将代码保存为 discord_bot.py 文件。然后打开本地代码文件开始配置参数。 
 
 # 这个方法里的值是随机发言的内容，可以按照格式自己修改：
 >import requests, random
